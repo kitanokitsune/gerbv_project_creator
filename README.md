@@ -1,7 +1,7 @@
 # Gerbv project file creator for Windows
 ---------------------------------------------
 ## What is this
-Windows上でガーバーファイルから Gerbv のプロジェクトファイルを作成します。  
+Windows上でガーバーファイルから [Gerbv](https://github.com/gerbv/gerbv) のプロジェクトファイルを作成します。  
 （４層以下のガーバーデータに対応しています）
 
 ## How to use
